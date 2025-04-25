@@ -51,8 +51,12 @@ npm install
 npm run dev  # or npm start
 ```
 
-🧪 Sample Use Cases
-✏️ Draw a fraction or integral on canvas and get the result.
-🌀 It answer in realtime
+
+
+
+ ## 🧪 Sample Use Cases
+ - ✏️ Draw a fraction or integral on canvas and get the result.
+ - 🌀 It answer in realtime
+ - 🚀 Uses Mathjax to express numbers correctly 
 
     
