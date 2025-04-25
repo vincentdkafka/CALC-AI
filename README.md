@@ -6,13 +6,13 @@ An intelligent calculator powered by Python and TypeScript, inspired by the slee
 
 ## 🚀 Features
 
-- 🔍 **Image Recognition**: Solve math problems from images using OCR (Optical Character Recognition).
+
 - 💬 **Natural Language Understanding**: Type questions like “What’s the derivative of x²?” and get instant answers.
 - 🧮 **Symbolic & Numeric Computation**: Handles both algebraic and numerical problems.
 - 📉 **Beautiful Output**: Uses MathJax to render math expressions in a clean, elegant way.
 - 🖌️ **Canvas Drawing Support**: Draw problems on a canvas, and it recognizes and solves them.
 - ⚡ **Real-Time Results**: Fast computation with responsive frontend interactions.
-- 🔁 **Multi-platform**: Runs on any modern browser and is easily extendable to mobile.
+  
 
 ---
 
@@ -53,10 +53,6 @@ npm run dev  # or npm start
 
 🧪 Sample Use Cases
 ✏️ Draw a fraction or integral on canvas and get the result.
-
-📸 Upload a photo of a math problem and receive step-by-step solutions.
-
-💬 Ask: “What is the integral of sin(x) dx?” — it responds instantly.
-
+🌀 It answer in realtime
 
     
