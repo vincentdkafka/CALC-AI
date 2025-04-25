@@ -28,9 +28,35 @@ An intelligent calculator powered by Python and TypeScript, inspired by the slee
 ---
 
 ## 📦 Installation
-
 ### Clone the Repo
 
 ```bash
 git clone https://github.com/yourusername/ai-calculator.git
 cd ai-calculator
+```
+
+**Backend Setup (Python)**
+```
+cd backend
+python -m venv venv
+source venv/bin/activate  # or venv\Scripts\activate on Windows
+pip install -r requirements.txt
+uvicorn main:app --reload
+```
+
+Frontend Setup (React Typescript)
+```
+cd frontend
+npm install
+npm run dev  # or npm start
+```
+
+🧪 Sample Use Cases
+✏️ Draw a fraction or integral on canvas and get the result.
+
+📸 Upload a photo of a math problem and receive step-by-step solutions.
+
+💬 Ask: “What is the integral of sin(x) dx?” — it responds instantly.
+
+
+    
